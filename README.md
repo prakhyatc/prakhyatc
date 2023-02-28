@@ -5,19 +5,9 @@
 
 Welcome to my Github profile!
 
-I'm HARI PAUDEL, a self-taught ML developer and Google Certified Data Analytics Professional. I have a passion for using machine learning to solve real-world problems and am always looking to expand my skillset.
-
-Currently, I am diving deeper into the world of MLOps, Kubernetes, and GraphQL. These technologies are essential in building robust and scalable ML systems, and I am excited to continue learning more about them.
-
-When I am not working, you can find me working out to maintain a healthy physique and mental well-being. I believe that taking care of your body and mind is crucial to achieving success in any field.
-
-On my Github profile, you will find some of my recent projects and experiments with machine learning and data science. I hope you find them interesting and informative. Feel free to reach out if you have any questions or want to collaborate on a project.
+On my Github profile, you will find some of my recent projects and experiments that I hope you find them interesting and informative. Feel free to reach out if you have any questions or want to collaborate on a project.
 
 Thank you for visiting my profile!
-
-Cheers,
-
-Hari Paudel
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
