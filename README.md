@@ -3,7 +3,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 ---
 
-I am learning different tech stacks and also exploring Cloud :cloud: and Enthusiast about Artificial Intelligence && DevOps. :wink:
+I am learning different tech stacks and also exploring Cloud :cloud: and Enthusiast about AI && DevOps. :wink:
 ---
 
 Welcome to my Github profile!
