@@ -36,8 +36,6 @@ On my Github profile, you will find some of my recent projects and experiments t
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ---
 
-![Profile views](https://gpvc.arturio.dev/prakhyatc)  <img src="https://img.shields.io/github/followers/prakhyatc?label=Follow" style=" float:left, margin-right:10px" />
-
 <img src="https://github-readme-stats.vercel.app/api?username=prakhyatc&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 ---
