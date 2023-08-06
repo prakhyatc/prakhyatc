@@ -7,16 +7,14 @@ I am learning different tech stacks, also exploring DevOps :cloud: and Enthusias
 
 Welcome to my Github profile!
 
-- 🔭 Engaged in groundbreaking projects centered around HCI, pushing the boundaries of visual intelligence to unlock new possibilities.
-- 🌱 Actively expanding my knowledge and expertise in libraries, harnessing its potential to build scalable and efficient web applications.
-- 🤠 Eager to collaborate with like-minded individuals on research papers, driving innovation and making significant contributions to the scientific 
-     community.
-- 🤔 Seeking opportunities to contribute to the vibrant world of open source on GitHub, collaborating with brilliant minds to create impactful solutions.
-- 💬 I'm always ready to engage in insightful conversations about this versatile and powerful programming language.
+- 🔭 Engaged in groundbreaking projects centered around HCI, pushing the boundaries of visual intelligence.
+- 🌱 Actively expanding my knowledge and expertise in libraries, harnessing its potential to build scalable web applications.
+- 🤠 Eager to collaborate with like-minded individuals on research papers.
+- 🤔 Seeking opportunities to contribute to the vibrant world of open source on GitHub.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: While I excel in various technical domains, I would like to enter into FinTech industry.
+- ⚡ Fun fact: Want to enter into FinTech industry.
 
-On my Github profile, you will find some of my recent projects and experiments that I hope you find them interesting and informative. Feel free to reach out if you have any questions or want to collaborate on a project.
+On my Github profile, you will find some of my recent projects and experiments, which I hope you find interesting and informative. Feel free to reach out if you have any questions or want to collaborate on a project.
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
