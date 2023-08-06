@@ -1,4 +1,4 @@
-### Hello, I'm Prakhyat! 👋
+### Hello, I'm Prakhyat(he/him)! 👋
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 ---
 
@@ -11,7 +11,6 @@ Welcome to my Github profile!
 - 🌱 Actively expanding my knowledge and expertise in libraries, harnessing its potential to build scalable web applications.
 - 🤠 Eager to collaborate with like-minded individuals on research papers.
 - 🤔 Seeking opportunities to contribute to the vibrant world of open source on GitHub.
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Want to enter into FinTech industry.
 
 On my Github profile, you will find some of my recent projects and experiments, which I hope you find interesting and informative. Feel free to reach out if you have any questions or want to collaborate on a project.
