@@ -6,8 +6,7 @@ Developer  . :wink:
 ---
 
 Welcome to my Github profile!
-
-- 🔭 Engaged in groundbreaking projects centered around HCI, pushing the boundaries of visual intelligence.
+- Currently working on full stack application development using PHP, JS, Bootstrap, MariaDB
 - 🌱 Actively expanding my knowledge and expertise in libraries, harnessing its potential to build scalable web applications.
 - 🤠 Eager to collaborate with like-minded individuals on research papers.
 - 🤔 Seeking opportunities to contribute to the vibrant world of open source on GitHub.
