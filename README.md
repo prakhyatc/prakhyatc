@@ -33,7 +33,10 @@ On my Github profile, you will find some of my recent projects and experiments, 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ---
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=prakhyatc&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=prakhyatc
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prakhyatc&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
 
