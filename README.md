@@ -35,7 +35,6 @@ On my Github profile, you will find some of my recent projects and experiments, 
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=prakhyatc
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prakhyatc&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
