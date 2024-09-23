@@ -6,13 +6,11 @@ Developer  . :wink:
 ---
 
 Welcome to my Github profile!
-- Currently working on full stack application development using PHP, JS, Bootstrap, MariaDB
-- 🌱 Actively expanding my knowledge and expertise in libraries, harnessing its potential to build scalable web applications.
-- 🤠 Eager to collaborate with like-minded individuals on research papers.
-- 🤔 Seeking opportunities to contribute to the vibrant world of open source on GitHub.
-- ⚡ Fun fact: Want to enter into FinTech industry.
+- ⚡ Currently working on full stack application development using PHP, JS, Bootstrap, MariaDB
+-  🤠 knowledge and expertise in libraries
+-  🤠 Eager to collaborate with like-minded individuals on research papers.
 
-On my Github profile, you will find some of my recent projects and experiments, which I hope you find interesting and informative. Feel free to reach out if you have any questions or want to collaborate on a project.
+On my Github profile, you will find some of my recent projects and experiments.
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
