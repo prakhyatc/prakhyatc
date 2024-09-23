@@ -2,7 +2,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 ---
 
- :wink: - ⚡ Currently working on full stack application development using PHP, JS, Bootstrap, MariaDB
+ :wink: Currently working on projects using PHP, JS, MySQL
 ---
 ### Tech & Tools Preference
 
