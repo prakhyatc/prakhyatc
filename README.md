@@ -2,7 +2,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 ---
 
- :wink: Currently working on projects using PHP, JS, MySQL at [UT Arlington](https://www.uta.edu/)
+Currently working on projects using PHP, JS, MySQL at [UT Arlington](https://www.uta.edu/)
 ---
 ### Tech & Tools Preference
 
