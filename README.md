@@ -36,8 +36,6 @@ Currently working on projects using PHP, JS, MySQL at [UT Arlington](https://www
 ---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prakhyatc&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![](https://visitcount.itsvg.in/api?id=prakhyatc&icon=8&color=0)](https://visitcount.itsvg.in)
 ---
 Welcome to my Github profile!
 -  🤠 knowledge and expertise in libraries
