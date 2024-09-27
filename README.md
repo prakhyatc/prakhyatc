@@ -3,6 +3,7 @@
 ---
 📫 How to reach me:<br>
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/prakhyat-c-96a4741a0/)
+
 Currently working on projects using PHP, JS, MySQL at [UT Arlington](https://www.uta.edu/)
 ---
 ### Tech & Tools Preference
