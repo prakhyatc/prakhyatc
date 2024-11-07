@@ -32,7 +32,7 @@ Currently working on projects using PHP, JS, MySQL at [UT Arlington](https://www
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ---
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/prakhyatc)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=prakhyatc)](https://git.io/streak-stats)
 ---
 Welcome to my Github profile!
 -  🤠 knowledge and expertise in libraries
