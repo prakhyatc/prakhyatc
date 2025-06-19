@@ -1,5 +1,5 @@
 ### Hello, I'm Prakhyat(he/him)! 👋
-Actively looking for software engineering intern roles!!! 
+Actively looking for full-time SDE roles!!! 
 ---
 📫 How to reach me:<br>
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/prakhyat-c-96a4741a0/)
