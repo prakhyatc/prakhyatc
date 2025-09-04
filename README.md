@@ -1,4 +1,3 @@
-### Hello, I'm Prakhyat(he/him)! 👋
 Actively looking for full-time SDE roles!!! 
 ---
 📫 How to reach me:<br>
