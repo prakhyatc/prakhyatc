@@ -17,6 +17,6 @@ CS (Honors) '26 <br>
   </p>
 </details>
 
-<p align="left">
-  <a href="https://linkedin.com/in/prakhyatchaube" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>&nbsp;&nbsp;
-</p>
+<a href="https://linkedin.com/in/prakhyatchaube">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+</a>
