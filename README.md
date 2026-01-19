@@ -18,6 +18,7 @@ CS (Honors) '26 <br>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=prakhyatc&show_icons=true&count_private=true&theme=default" alt="prakhyatc" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhyatc&layout=compact&theme=default" alt="prakhyatc" />
+    [![prakhyat'c's gitHub stats](https://github-readme-stats.vercel.app/api?username=prakhyatc)](https://github.com/prakhyatc/github-readme-stats)
   </p>
 
 </details>
