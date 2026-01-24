@@ -7,10 +7,6 @@ CS (Honors) '26 <br>
 
   <br>
 
-  <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=prakhyatc&color=blue" alt="prakhyatc" />
-  </p>
-
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakhyatc&theme=default" alt="prakhyatc" />
   </p>
