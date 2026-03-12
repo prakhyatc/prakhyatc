@@ -1,7 +1,3 @@
-Research Assistant @ UT Arlington — Building NLP annotation platforms <br>
-CS (Honors) '26 <br>
-**Seeking New Grad SDE Roles**
-
 <details>
   <summary>GitHub Stats...</summary>
 
